@@ -1,0 +1,23 @@
+# Flutter/Dart
+.DS_Store
+*.log
+*.lock
+*.tmp
+build/
+ios/Flutter/.last_build_id
+**/Pods/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android
+**/gradle-wrapper.jar
+**/gradle-wrapper.properties
+**/app/build/
+**/app/intermediates/
+
+# iOS
+Pods/
+DerivedData/
+
+# Web
+build/web/
